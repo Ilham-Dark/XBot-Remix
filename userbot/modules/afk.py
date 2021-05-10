@@ -23,10 +23,10 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 AFKSTR = [
-    "`#AFK\n Maaf Boss Saya Sedang OFFLINE!!`",
-    "`#AFK\n Maaf Boss Saya Sedang OFFLINE\n Tolong Jangan Ganggu Saya!!",
-    "`#AFK\n Saya Sedang OFFLINE\n Jangan Ganggu Saya !!!!!`",
-    "`#AFK\n Maaf Boss Saya Sedang OFFLINE!!`",
+    "`#AFK\n Maaf Saya Sedang OFFLINE!!`",
+    "`#AFK\n Tolong Jangan Ganggu Saya!!",
+    "`#AFK\n Maaf Saya Sedang OFFLINE\n Tolong Jangan Ganggu Saya !!!!!`",
+    "`#AFK\n Maaf Saya Sedang OFFLINE!!`",
 ]
 
 
